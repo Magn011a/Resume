@@ -1,0 +1,43 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+img {
+  width:200px;
+}
+.navbar-nav {
+  display: flex;
+  flex-direction:row;
+  justify-content:end;
+  justify-content:space-evenly;
+}
+*{
+  text-align: center;
+  color:white;
+}
+.nav-item {
+  margin-right: 15px; /* Adjust as needed to add space between the navigation items */
+}
+
+nav {
+  background-color: darkblue
+}
+form {
+  text-align: center;
+}
+footer {
+  color: black;
+  padding: 20px;
+  background-color: darkblue;
+}
+
+header {
+  height: 100%;
+  width: 100%;
+  background-image: url(https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif);
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: white;
+}
+
